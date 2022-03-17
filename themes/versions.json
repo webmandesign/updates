@@ -1,16 +1,16 @@
 {
-	"angelica"        : "1.0.14",
+	"angelica"        : "1.0.15",
 	"auberge-plus"    : "2.7.6",
 	"bjork"           : "1.0.14",
 	"cindy"           : "1.0.16",
 	"deborah"         : "1.0.13",
-	"eimear"          : "1.1.0",
+	"eimear"          : "1.1.1",
 	"forstron"        : "2.0.0",
-	"francesca"       : "1.0.5",
+	"francesca"       : "1.0.6",
 	"icelander"       : "1.6.2",
 	"monument-valley" : "1.9.3",
 	"mustang"         : "1.9.6",
-	"polyclinic"      : "2.0.1",
+	"polyclinic"      : "2.0.2",
 	"qtron"           : "2.0.0",
 
 	"theme-slug" : "1.0.0"
